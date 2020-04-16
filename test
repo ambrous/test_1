@@ -5,11 +5,9 @@ google
 yandex
 
 
-www.sberbank.ch
-test.test.sberbank-direct.ch
-sberbank-direkt.ch
-sberbankdirect.ch
-sberbankdirekt.ch
+www.sberbank.ru
+sberbank.ru
+test.test.sberbank.ru
 
 217.116.48.210
 52.136.254.247
@@ -20,3 +18,11 @@ sberbank
 сбербанк
 
 fewfewfewfewfwefew:fewfewfewfewfffewfew
+
+postgres
+mysql
+redis
+amqp
+mongodb
+elasticsearch
+postgresql
